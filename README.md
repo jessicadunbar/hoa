@@ -4,7 +4,7 @@
 
 # Neighborhood Online: HOA Website Builder
 
-Welcome to the GitHub portfolio for Neighborhood Online, the ultimate  [HOA website builder](https://neighborhood.online](https://neighborhood.online/blog/hoa-website) designed to empower homeowners' associations with sleek, functional, and easy-to-navigate websites. 
+Welcome to the GitHub portfolio for Neighborhood Online, the ultimate [HOA website builder](https://neighborhood.online) designed to empower homeowners' associations with sleek, functional, and easy-to-navigate websites.
 
 ## Features
 - **Customizable Templates:** Choose from a variety of templates that best fit your community's vibe and needs.
